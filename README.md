@@ -11,7 +11,7 @@ yAI is a platform that lets you create personalized AI assistants with unique pe
 - Connect your AIs to external apps via API (yFlows)
 - Group chat with multiple AIs and team members
 
-##How to Use this Guide
+## How to Use this Guide
 **01 - yAI User guide**
  - Goes through account and AI set up
 
